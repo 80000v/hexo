@@ -5,10 +5,10 @@ menu:
   Archives: archives
 
 social:
-  email:admin@strwei.com
-  twitter:Kaiku300Strwei
+  email:
+  twitter:
   weibo:
-  github:istrwei
+  github:
   googleplus:
   rss: /atom.xml
 
@@ -16,8 +16,8 @@ social:
 fancybox: true # set to true if you want to use it
 
 duoshuo: #duoshuo_shortname
-disqus: #disqus _shortname
-google_analytics: #Google Analytics Tracking Code
+disqus: 
+google_analytics:
 google_adsense_page_level_ads: #Google Adsense Page Level Ads Code
 
 less:
