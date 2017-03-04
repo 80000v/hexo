@@ -3,6 +3,6 @@ title: About
 
 > Past won't tell us about the future.
 
-È«Õ»¹¤³ÌÊ¦£¬Ä¿Ç°³£ÄêÊ¹ÓÃ [Github @istrwei](https://github.com/istrwei)¡£
+Full stack engineer, currently perennial use [Github @istrwei](https://github.com/istrwei)ã€‚
 
-Î´Íê´ıĞø¡­¡­
+To be continuedâ€¦â€¦
