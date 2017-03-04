@@ -1,5 +1,5 @@
 ---
-title: Re: my blog from scratch
+title: Re:my blog from scratch
 date: 2017-03-04 11:34:29
 tags: blog
 categories: 
