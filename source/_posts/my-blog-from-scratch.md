@@ -1,10 +1,8 @@
 ---
 title: Re: my blog from scratch
 date: 2017-03-04 11:34:29
-tags:blog
+tags: blog
 ---
-
-
 
 Unconsciously this site has been established for more than four years, from the last update has been more than a year.
 So long when there is a new beginning.
