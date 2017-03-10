@@ -1,6 +1,5 @@
-
 ---
-title: TIOBE March programming language leaderboard: Swift first entered the top 10
+title: TIOBE March programming language leaderboard
 date: 2017-03-10 10:59:29
 tags: swift
 categories: 
