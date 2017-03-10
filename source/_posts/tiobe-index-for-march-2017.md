@@ -1,7 +1,10 @@
+
 ---
 title: TIOBE March programming language leaderboard: Swift first entered the top 10
-date: 2017-03-10
+date: 2017-03-10 10:59:29
 tags: swift
+categories: 
+toc:
 ---
 
 Swift first entered TIOBE top 10 this month. Swift is a new programming language for writing iOS and OS X applications. Swift combines the advantages of C and Objective-C and is not limited by C compatibility. Swift uses a secure programming mode and adds a lot of new features that will make programming simpler, more flexible, and more interesting.
