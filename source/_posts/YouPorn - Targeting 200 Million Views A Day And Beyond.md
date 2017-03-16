@@ -84,7 +84,7 @@ Read on to learn more about the YouPorn architecture...
 - Doctrine is used in their CMS. Great tool that has saved weeks of development.
 
 
-  [1]: http://evandavis.org/wp-content/uploads/2013/05/YouPorn.jpg
+  [1]: https://s16.postimg.org/ttuw2mgt1/You_Porn.jpg
   [2]: http://www.youtube.com/watch?v=RlkCdM_f3p4
   [3]: https://twitter.com/#!/EricPickupYP
   [4]: https://joind.in/6123
