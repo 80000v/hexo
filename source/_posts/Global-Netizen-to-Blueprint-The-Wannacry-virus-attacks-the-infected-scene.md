@@ -78,7 +78,7 @@ A public parking service system in Germany
 **Russia-Interior Ministry, communications company, train dispatching control center, public service system,**
 
 ![Russia](http://image.3001.net/images/20170519/14951791472298.jpg)
-![Russia](http://image.3001.net/images/20170519/14951743836055.jpg)
+![Russia](http://image.3001.net/images/20170519/14951792084665.jpg)
 Russian Ministry of the Interior infected computer
 
 OK, just talk about here, there are many do not map, you may also be in the virus, the author of Windows 10, will automatically update, so avoid the attack of this virus! It's not poisoned.
