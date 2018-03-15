@@ -1,4 +1,3 @@
-
 ---
 title: Using GPG encryption Github commits
 date: 2018-03-15  19:09:21
