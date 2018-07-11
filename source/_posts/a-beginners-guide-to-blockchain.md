@@ -9,7 +9,6 @@ tags: Blockchain
   I don’t get why people find it difficult to understand Blockchain. I wonder why I myself didn’t. It was in 2013 I first heard about Bitcoin (yea, too late). I was poor to purchase one, so tried mining it. If I had been successful, you wouldn’t be reading this. Later, I thought of studying its underlying technology, the Blockchain. But, I was too busy with my startup (that didn’t work out either).
 
 ![161907_UhxM_2896879.png](https://i.loli.net/2018/07/11/5b45eb4509f1c.png)
-Credits : xkcd
 
 ###So what is this “Blockchain”?
 
@@ -32,7 +31,6 @@ One more thing, in a Blockchain network, not only data but the program is also r
 ###Public Blockchains
 
 ![1_wCoFI8Ohp3M1ZWbtsqFWgA.png](https://i.loli.net/2018/07/11/5b45ec5ce4096.png)
-Credits : xkcd
 
 **Does this mean Blockchain is formed by a group of people who keeps their computers running for goodwill? What is the use of these tamper-proof blocks?**
 
@@ -45,7 +43,6 @@ Blockchain apps don’t have to be just payments systems or cryptocurrencies. It
 ###Private Blockchains
 
 ![1_UpfvatIr0iTcZv4BrYA4Qg.png](https://i.loli.net/2018/07/11/5b45ec9663b28.png)
-Credits : xkcd
 
 **Bitcoin, Ethereum, etc are examples of the public blockchain. Anyone can be a part of it. What if we want to make a private blockchain network? Why would someone need a private blockchain for? Have a look at these stories.**
 
@@ -80,6 +77,6 @@ Private blockchain will be restricted to the parties involved in the business. J
 ###The Way Ahead
 
 ![1_jErKGSY4dEY5N7F0G8Vmuw.png](https://i.loli.net/2018/07/11/5b45ed27b1f3d.png)
-Credits : xkcd
+
 Now that you have some idea, you should take this course on edX(It’s free). It will teach you to build apps on Blockchain.
 
